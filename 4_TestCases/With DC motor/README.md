@@ -1,5 +1,5 @@
-|Input (Voltage)|	--- |Output with DC Motor|
-|0|---	|0|
+|Input (Voltage)|	--- |Output (DIGITAL SIGNAL)|
+|0| 	|0|
 0.55	0002
 0.91	0003
 1.22	0004
