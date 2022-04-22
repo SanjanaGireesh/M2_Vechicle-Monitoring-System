@@ -1,5 +1,5 @@
 # M2_VEHICLE MONITORING SYSTEM
-
+# BADGES
 # Code Quality ![Code Quality Score](https://api.codiga.io/project/33007/score/svg)
 # Code Grade ![Code Grade](https://api.codiga.io/project/33007/status/svg)
 
@@ -21,6 +21,8 @@
 [![Analysis](https://github.com/SanjanaGireesh/M2_Vechicle-Monitoring-System/actions/workflows/Analysis.yml/badge.svg)](https://github.com/SanjanaGireesh/M2_Vechicle-Monitoring-System/actions/workflows/Analysis.yml)
 # Valgrind
 [![Valgrind](https://github.com/SanjanaGireesh/M2_Vechicle-Monitoring-System/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/SanjanaGireesh/M2_Vechicle-Monitoring-System/actions/workflows/Valgrind.yml)
+# CI Passing
+[![CI](https://github.com/SanjanaGireesh/M2_Vechicle-Monitoring-System/actions/workflows/CI.yml/badge.svg)](https://github.com/SanjanaGireesh/M2_Vechicle-Monitoring-System/actions/workflows/CI.yml)
 # In Action 
 # OFF MODE
 ![OFF MODE](https://user-images.githubusercontent.com/101441389/164682580-834722c2-2b47-4d61-8ee5-76f2984b2c1e.PNG)
