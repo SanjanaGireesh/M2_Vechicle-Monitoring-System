@@ -11,6 +11,8 @@
 [![Cppcheck Analysis](https://github.com/SanjanaGireesh/M2_Vechicle-Monitoring-System/actions/workflows/Cppcheck%20Analysis.yml/badge.svg)](https://github.com/SanjanaGireesh/M2_Vechicle-Monitoring-System/actions/workflows/Cppcheck%20Analysis.yml)
 # unit testing
 [![Unit Testing](https://github.com/SanjanaGireesh/M2_Vechicle-Monitoring-System/actions/workflows/unit-test.yml/badge.svg)](https://github.com/SanjanaGireesh/M2_Vechicle-Monitoring-System/actions/workflows/unit-test.yml)
+# Build CI Linux
+[![Build CI -Linux](https://github.com/SanjanaGireesh/M2_Vechicle-Monitoring-System/actions/workflows/Build_Linux.yml/badge.svg)](https://github.com/SanjanaGireesh/M2_Vechicle-Monitoring-System/actions/workflows/Build_Linux.yml)
 # In Action 
 # OFF MODE
 ![OFF MODE](https://user-images.githubusercontent.com/101441389/164682580-834722c2-2b47-4d61-8ee5-76f2984b2c1e.PNG)
