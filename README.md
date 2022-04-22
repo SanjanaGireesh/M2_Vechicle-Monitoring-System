@@ -25,4 +25,5 @@
 # OFF MODE
 ![OFF MODE](https://user-images.githubusercontent.com/101441389/164682580-834722c2-2b47-4d61-8ee5-76f2984b2c1e.PNG)
 # ON MODE
-![ON MODE](https://user-images.githubusercontent.com/101441389/164682681-d3c000e6-741b-417b-bebc-22bf02ee8f2b.PNG)
+![ON MODE](https://user-images.githubusercontent.com/101441389/164749924-dfb64531-f782-4a86-aef9-621f3d2fd3b2.PNG)
+
