@@ -1,4 +1,4 @@
-Input(Voltage)	Output without DC Motor
+Input(Voltage)	Output ANALOG SIGNAL
 0	0
 0.43	0001
 0.85	0003
