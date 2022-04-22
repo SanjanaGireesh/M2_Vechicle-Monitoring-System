@@ -17,6 +17,8 @@
 [![Build CI - Windows](https://github.com/SanjanaGireesh/M2_Vechicle-Monitoring-System/actions/workflows/Build_Windows.yml/badge.svg)](https://github.com/SanjanaGireesh/M2_Vechicle-Monitoring-System/actions/workflows/Build_Windows.yml)
 # Analysis
 [![Analysis](https://github.com/SanjanaGireesh/M2_Vechicle-Monitoring-System/actions/workflows/Analysis.yml/badge.svg)](https://github.com/SanjanaGireesh/M2_Vechicle-Monitoring-System/actions/workflows/Analysis.yml)
+# Valgrind
+[![Valgrind](https://github.com/SanjanaGireesh/M2_Vechicle-Monitoring-System/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/SanjanaGireesh/M2_Vechicle-Monitoring-System/actions/workflows/Valgrind.yml)
 # In Action 
 # OFF MODE
 ![OFF MODE](https://user-images.githubusercontent.com/101441389/164682580-834722c2-2b47-4d61-8ee5-76f2984b2c1e.PNG)
