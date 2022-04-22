@@ -13,7 +13,7 @@
 [![Unit Testing](https://github.com/SanjanaGireesh/M2_Vechicle-Monitoring-System/actions/workflows/unit-test.yml/badge.svg)](https://github.com/SanjanaGireesh/M2_Vechicle-Monitoring-System/actions/workflows/unit-test.yml)
 # Build CI - Linux
 [![Build CI -Linux](https://github.com/SanjanaGireesh/M2_Vechicle-Monitoring-System/actions/workflows/Build_Linux.yml/badge.svg)](https://github.com/SanjanaGireesh/M2_Vechicle-Monitoring-System/actions/workflows/Build_Linux.yml)
-# build CI - Windows
+# Build CI - Windows
 [![Build CI - Windows](https://github.com/SanjanaGireesh/M2_Vechicle-Monitoring-System/actions/workflows/Build_Windows.yml/badge.svg)](https://github.com/SanjanaGireesh/M2_Vechicle-Monitoring-System/actions/workflows/Build_Windows.yml)
 # In Action 
 # OFF MODE
