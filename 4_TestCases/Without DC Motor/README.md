@@ -1,11 +1,1 @@
-Input(Voltage)	Output ANALOG SIGNAL
-0	0
-0.43	0001
-0.85	0003
-1.2	0004
-1.59	0005
-2.36	0008
-2.82	0010
-4.11	0012
-5	0012
-
+![Analog Signal Output](https://user-images.githubusercontent.com/101441389/164612353-cad9c65b-57b0-44cc-a703-c7c2e114c3d3.png)
