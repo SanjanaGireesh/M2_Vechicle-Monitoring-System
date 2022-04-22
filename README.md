@@ -5,6 +5,8 @@
 
 # Codacy - static code analysis
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/d06082f2f69a499596919c542955734b)](https://www.codacy.com/gh/SanjanaGireesh/M2_Vechicle-Monitoring-System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=SanjanaGireesh/M2_Vechicle-Monitoring-System&amp;utm_campaign=Badge_Grade)
+# Cppcheck Action
+[![cppcheck-action](https://github.com/SanjanaGireesh/M2_Vechicle-Monitoring-System/actions/workflows/cppcheck-action.yml/badge.svg)](https://github.com/SanjanaGireesh/M2_Vechicle-Monitoring-System/actions/workflows/cppcheck-action.yml)
 # CPPcheck Analysis
 [![Cppcheck Analysis](https://github.com/SanjanaGireesh/M2_Vechicle-Monitoring-System/actions/workflows/Cppcheck%20Analysis.yml/badge.svg)](https://github.com/SanjanaGireesh/M2_Vechicle-Monitoring-System/actions/workflows/Cppcheck%20Analysis.yml)
 # Git Inspector
