@@ -1,13 +1,2 @@
-|Input (Voltage)|	--- |Output (DIGITAL SIGNAL)|
-|0| 	|0|
-0.55	0002
-0.91	0003
-1.22	0004
-1.92	0007
-2.41	0008
-2.77	0010
-3.23	0011
-3.8	0012
-4.63	0012
-5	0012
+![Digital Signal Output](https://user-images.githubusercontent.com/101441389/164614697-093bb907-4142-4d94-b4b9-504a71987443.png)
 
