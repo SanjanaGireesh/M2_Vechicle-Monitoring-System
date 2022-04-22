@@ -3,13 +3,13 @@
 # Code Quality ![Code Quality Score](https://api.codiga.io/project/33007/score/svg)
 # Code Grade ![Code Grade](https://api.codiga.io/project/33007/status/svg)
 
-# Codacy
+# Codacy - static code analysis
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/d06082f2f69a499596919c542955734b)](https://www.codacy.com/gh/SanjanaGireesh/M2_Vechicle-Monitoring-System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=SanjanaGireesh/M2_Vechicle-Monitoring-System&amp;utm_campaign=Badge_Grade)
 # CPPcheck Analysis
 [![Cppcheck Analysis](https://github.com/SanjanaGireesh/M2_Vechicle-Monitoring-System/actions/workflows/Cppcheck%20Analysis.yml/badge.svg)](https://github.com/SanjanaGireesh/M2_Vechicle-Monitoring-System/actions/workflows/Cppcheck%20Analysis.yml)
 # Git Inspector
 [![Cppcheck Analysis](https://github.com/SanjanaGireesh/M2_Vechicle-Monitoring-System/actions/workflows/Cppcheck%20Analysis.yml/badge.svg)](https://github.com/SanjanaGireesh/M2_Vechicle-Monitoring-System/actions/workflows/Cppcheck%20Analysis.yml)
-# unit testing
+# Unit testing
 [![Unit Testing](https://github.com/SanjanaGireesh/M2_Vechicle-Monitoring-System/actions/workflows/unit-test.yml/badge.svg)](https://github.com/SanjanaGireesh/M2_Vechicle-Monitoring-System/actions/workflows/unit-test.yml)
 # Build CI - Linux
 [![Build CI -Linux](https://github.com/SanjanaGireesh/M2_Vechicle-Monitoring-System/actions/workflows/Build_Linux.yml/badge.svg)](https://github.com/SanjanaGireesh/M2_Vechicle-Monitoring-System/actions/workflows/Build_Linux.yml)
