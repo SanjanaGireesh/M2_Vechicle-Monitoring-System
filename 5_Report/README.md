@@ -36,7 +36,8 @@ Voltage regulator constitutes an indispensable part of the power supply section 
 	Fundamental classes of voltage regulators are linear regulators and switching regulators.
 	Two basic types of linear regulator are the series regulator and the shunt regulator.
 	The series regulator is connected in series with the load and the shunt regulator is connected in parallel with the load.
-# IC Voltage Regul•	Regulation circuits in integrated circuit form are widely used.
+# IC Voltage Regulator
+        Regulation circuits in integrated circuit form are widely used.
 	Their operation is no different but they are treated as a single device with associated components.
 	These are generally three terminal devices that provide a positive or negative output.
 	Some types have variable voltage outputs.
