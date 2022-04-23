@@ -5,6 +5,48 @@
 An electrical battery is one or more electrochemical cells that convert stored chemical energy into electrical energy.. Since the invention of the first battery (or "voltaic pile") in 1800 by Alessandro Volta and especially since the technically improved Daniel cell in 1836, batteries have become a common power source for many household and industrial applications. According to a 2005 estimate, the worldwide battery industry generates US$48 billion in sales each year, with 6% annual growth.
 There are two types of batteries: primary batteries (disposable batteries), which are designed to be used once and discarded, and secondary batteries (rechargeable batteries), which are designed to be recharged and used multiple times. Batteries come in many sizes, from miniature cells used to power hearing aids and wristwatches to battery banks the size of rooms that provide standby power for telephone exchanges and computer data centers.
 In strict terms, a battery is a collection of multiple electrochemical cells, but in popular usage battery often refers to a single cell.. For example, a 1.5-volt AAA battery is a single 1.5-volt cell, and a 9-volt battery has six 1.5-volt cells in series. The first electrochemical cell was developed by the Italian physicist Alessandro Volta in 1792, and in 1800 he invented the first battery, a "pile" of many cells in series.
+# Research
+The vehicle monitoring system serves a lot of purposes based on the environment in which it is deployed in. It can be configured, modified or redesigned with ease to act accordingly, as and when needed, based on the requirements of the environment.Comfort Control Systems do more for us today than ever before. They are in charge of keeping your air clean, cooling your car down on a hot summers day, and Keeping your car going at a single speed using Cruise Control.This microcontroller is used in a large number of machines like automobiles as it can be easily integrated around a machine.
+
+# Swot Analysis
+# Strength
+-Low cost.
+
+-Modular Based Programs.
+
+-User Friendly.
+
+-The vehicle it will gives the indication.
+
+-Easy to modify the temperature value.
+
+# Weakness
+Its only applicable for those countries which are having low temperature.
+
+# Opportunities
+Public EV charging Stations.
+Battery recycling Business.
+Battery swapping Technology.
+solar electric vehicle charging.
+Home charging stations.
+EV Equipment Manufacturing.
+EV Franchise and Dealershi.
+
+# Threats
+High voltage range.
+
+# 4W's and 1'H
+# WHERE
+Used in each and every Vehicles
+
+# WHEN
+At Battery Management System
+
+# WHY
+Comfertness of human beings.
+
+# HOW
+Operates and changing in the temperature.
 # Principle of operation:
 A voltaic cell for demonstration purposes. In this example the two half-cells are linked by a salt bridge separator that permits the transfer of ions, but not water molecules.
 A battery is a device that converts chemical energy directly to electrical energy. It consists of a number of voltaic cells; each voltaic cell consists of two half-cells connected in series by a conductive electrolyte containing anions and cations. One half-cell includes electrolyte and the electrode to which anions (negatively charged ions) migrate, i.e., the anode or negative electrode; the other half-cell includes electrolyte and the electrode to which cations (positively charged ions) migrate, i.e., the cathode or positive electrode. In the redox reaction that powers the battery, cations are reduced (electrons are added) at the cathode, while anions are oxidized (electrons are removed) at the anode. The electrodes do not touch each other but are electrically connected by the electrolyte. Some cells use two half-cells with different electrolytes. A separator between half-cells allows ions to flow, but prevents mixing of the electrolytes.
