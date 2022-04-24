@@ -19,7 +19,7 @@ The vehicle monitoring system serves a lot of purposes based on the environment 
 
 5) HLR 5---> Microcontroller
 
-LOW LEVEL REQUIREMENTS
+# LOW LEVEL REQUIREMENTS
 
 1) LLR 1---> ATmega328
 
@@ -80,25 +80,25 @@ For low values of I internal self-discharge must be included.
 Internal energy losses and limited rate of diffusion of ions through the electrolyte cause the efficiency of a real battery to vary at different discharge rates. When discharging at low rate, the battery's energy is delivered more efficiently than at higher discharge rates, but if the rate is very low, it will partly self-discharge during the long time of operation, again lowering its efficiency.
 Installing batteries with different A•h ratings will not affect the operation of a device (except for the time it will work for) rated for a specific voltage unless the load limits of the battery are exceeded. High-drain loads such as digital cameras can result in delivery of less total energy, as happens with alkaline batteries. For example, a battery rated at 2000 mA•h for a 10- or 20-hour discharge would not sustain a current of 1 A for a full two hours as its stated capacity implies.
 
-# Transformer: 
+# Transformer
 A transformer is an electro-magnetic static device, which transfers electrical energy from one circuit to another, either at the same voltage or at different voltage but at the same frequency.
-# Rectifier: 
+# Rectifier 
 The function of the rectifier is to convert AC to DC current or voltage. Usually in the rectifier circuit full wave bridge rectifier is used. 
-# Filter:  
+# Filter  
 The Filter is used to remove the pulsated AC. A filter circuit uses capacitor and inductor. The function of the capacitor is to block the DC voltage and bypass the AC voltage. The function of the inductor is to block the AC voltage and bypass the DC voltage.
-# Voltage Regulator: 
+# Voltage Regulator 
 Voltage regulator constitutes an indispensable part of the power supply section of any electronic systems. The main advantage of the regulator ICs is that it regulates or maintains the output constant, in spite of the variation in the input supply. 
-# Voltage Regulation:
+# Voltage Regulation
 Two basic categories of voltage regulation are:
 1 line regulation
 2 load regulation
-# Line Regulation:
+# Line Regulation
 The purpose of line regulation is to maintain a nearly constant output voltage when the input voltage varies.
-# Load regulation: 
+# Load regulation 
 A change in load current (due to a varying RL) has practically no effect on the output voltage of a regulator (within certain limits)
 The purpose of load regulation is to maintain a nearly constant output voltage when the load varies.
 Load regulation can be defined as the percentage change in the output voltage from no-load (NL) to full-load (FL).
-# IC Voltage Regulators:
+# IC Voltage Regulators
 	Regulation circuits in integrated circuit form are widely used.
 	Their operation is no different but they are treated as a single device with associated components.
 	These are generally three terminal devices that provide a positive or negative output.
@@ -106,15 +106,16 @@ Some types have variable voltage outputs.
 	A typical 7800 series voltage regulator is used for positive voltages.
 The 7900 series are negative voltage regulators.	These voltage regulators when used with heatsinks can safely produce current values of 1A and greater.
 	The capacitors act as line filtration.
-Several types of both linear (series and shunt) and switching regulators are available in integrated circuit (IC) form.•	Single IC regulators contain the circuitry for:
-	Reference source,
-	Comparator amplifier,
-	Control device,
-	Overload protection
+Several types of both linear (series and shunt) and switching regulators are available in integrated circuit (IC) form.
+	Single IC regulators contain the circuitry for:
+	1) Reference source
+	2) Comparator amplifier
+	3) Control device
+	4) Overload protection
 	Generally, the linear regulators are three-terminal devices that provides either positive or negative output voltages that can be either fixed or adjustable
-# MICROCONTROLLER – ATMEGA328:
+# MICROCONTROLLER – ATMEGA328
 
-# Features:
+# Features
  High-performance, Low-power AVR® 8-bit Microcontroller
  Advanced RISC Architecture
  130 Powerful Instructions – Most Single-clock Cycle Execution
@@ -165,17 +166,17 @@ Six Channels 10-bit Accuracy
  Active: 3.6 mA
  Idle Mode: 1.0 mA
  Power-down Mode: 0.5 µA
-# AVR Core: 	
+# AVR Core 	
 The AVR core combines a rich instruction set with 32 general purpose working registers.  All the32 registers are directly connected to the Arithmetic Logic Unit (ALU), allowing two independent registers to be accessed in one single instruction executed in one clock cycle. The resulting architecture is more code efficient while achieving throughputs up to ten times faster than conventional CISC microcontrollers. The ATMEGA328 provides the following features: 8K bytes of In-System Programmable Flash with Read-While-Write capabilities, 512 bytes of EEPROM, 1K byte of SRAM, 23 general purpose I/O lines, 32 general purpose working registers, three flexible Timer/Counters with compare modes, internal and external interrupts, a serial programmable USART, a byte oriented Two-wire Serial Interface, a 6-channel ADC (eight channels in TQFP and QFN/MLF packages) with10-bit accuracy, a programmable Watchdog Timer with Internal Oscillator, an SPI serial port, and five software selectable power saving modes. The Idle mode stops the CPU while allowing the SRAM; Timer/Counters, SPI port, and interrupt system to continue functioning. The Power-down mode saves the register contents but freezes the Oscillator, disabling all other chip functions until the next Interrupt or Hardware Reset. In Power-save mode, the asynchronous timer continues to run, allowing the user to maintain a timer base while the rest of the device is sleeping. The ADC Noise Reduction mode stops the CPU and all I/O modules except asynchronous timer and ADC, to minimize switching noise during ADC conversions. In Standby mode, the crystal/resonator Oscillator is running while the rest of the device is sleeping. This allows very fast start-up combined with low-power consumption. The device is manufactured using Atmel’s high density non-volatile memory technology. The Flash Program memory can be reprogrammed In-System through an SPI serial interface, by a conventional non-volatile memory programmer, or by an On-chip boot program running on the AVR core. The boot program can use any interface to download the application program in the Application Flash memory. Software in the Boot Flash Section will continue to run while the Application Flash Section is updated, providing true Read-While-Write operation. By combining an 8-bit RISC CPU with In-System Self-Programmable Flash on a monolithic chip, the AtmelATMEGA328 is a powerful microcontroller that provides a highly-flexible and cost-effective solution to many embedded control applications. The ATMEGA328 AVR is supported with a full suite of program and system development tools, including C compilers, macro assemblers, program debugger/simulators, In-Circuit Emulators, and evaluation kits.
-# Disclaimer:
+# Disclaimer
 	Typical values contained in this datasheet are based on simulations and characterization of other AVR microcontrollers manufactured on the same process technology. 
 	Min and Max values will be available after the device is characterized.
-# Pin Descriptions:
+# Pin Descriptions
 VCC 	Digital supply voltage.
 GND   	Ground.
 # Application-specific AVR
 o	MegaAVRs with special features not found on the other members of the AVR family, such as LCD controller, USB controller, advanced PWM, CAN etc.
-# Features:
+# Features
 Current AVRs offer a wide range of features:
 	Multifunction, bi-directional general-purpose I/O ports with configurable, built-in pull-up resistors
 	Multiple internal oscillators, including RC oscillator without external parts
@@ -215,20 +216,20 @@ In certain members of the X Mega series, the external data space has been enhanc
 	picoPower devices
 	DMA controllers and "event system" peripheral communication.
 	Fast cryptography support for AES and DES
-# Programming interfaces:
+# Programming interfaces
 	There are many means to load program code into an AVR chip. The methods to program AVR chips vary from AVR family to family.
-# ISP:
+# ISP
 	The In-system programming (ISP) programming method is functionally performed through SPI, plus some twiddling of the Reset line.
 	 As long as the SPI pins of the AVR aren't connected to anything disruptive, the AVR chip can stay soldered on a PCB while reprogramming.
 	 All that's needed is a 6-pin connector and programming adapter. This is the most common way to develop with an AVR.
    	The Atmel AVR ISP mkII device connects to a computer's USB port and performs in-system programming using Atmel's software.
 	AVRDUDE (AVR DownloderUploaDEr) runs on Linux, FreeBSD, Windows, and Mac OS X, and supports a variety of in-system programming hardware, including Atmel AVR ISP mkII, Atmel JTAG ICE, older Atmel serial-port based programmers, and various third-party and "do-it-yourself" programmers. 
-# PDI:
+# PDI
 	The Program and Debug Interface (PDI) is an Atmel proprietary interface for external programming and on-chip debugging of XMEGA devices.
 	 The PDI supports high-speed programming of all non-volatile memory (NVM) spaces; flash, EEPROM, fuses, lock-bits and the User Signature Row.
 	 This is done by accessing the XMEGA NVM controller through the PDI interface, and executing NVM controller commands. 
 	The PDI is a 2-pin interface using the Reset pin for clock input (PDI_CLK) and a dedicated data pin (PDI_DATA) for input and output. 
-# High voltage:
+# High voltage
 	High-voltage serial programming (hvsp) is mostly the backup mode on smaller AVRs.
 	 An 8-pin AVR package doesn't leave many unique signal combinations to place the AVR into a programming mode.
 	 A 12 volt signal, however, is something the AVR should only see during programming and never during normal operation
