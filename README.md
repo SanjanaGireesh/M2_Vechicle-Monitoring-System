@@ -23,6 +23,14 @@
 [![Valgrind](https://github.com/SanjanaGireesh/M2_Vechicle-Monitoring-System/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/SanjanaGireesh/M2_Vechicle-Monitoring-System/actions/workflows/Valgrind.yml)
 # CI Passing
 [![CI](https://github.com/SanjanaGireesh/M2_Vechicle-Monitoring-System/actions/workflows/CI.yml/badge.svg)](https://github.com/SanjanaGireesh/M2_Vechicle-Monitoring-System/actions/workflows/CI.yml)
+# FOLDER --->	DESCRIPTION
+1) 0_Abstract ---> Project Title and objectives of the Project
+2) 1_Requirements --->	Documents detailing high and low level requirements
+3) 2_Design --->	Block Diagram, Data Flow Diagram, Flow Chart, Schematic Diagram, Votlage Regulation
+4) 3_Implementation --->	Simulation, Documentation, Makefile & all the code is written here
+5) 4_TestCases ---> Off Mode, On Mode, Analog Signal, Digital Signal, Hex File
+6) 5_Report --->	Generated a detailed Report
+7) 6_Output --->	All the images and project execution video
 # In Action 
 # OFF MODE
 ![OFF MODE](https://user-images.githubusercontent.com/101441389/164682580-834722c2-2b47-4d61-8ee5-76f2984b2c1e.PNG)
