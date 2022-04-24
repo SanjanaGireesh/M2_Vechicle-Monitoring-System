@@ -7,6 +7,25 @@ There are two types of batteries: primary batteries (disposable batteries), whic
 In strict terms, a battery is a collection of multiple electrochemical cells, but in popular usage battery often refers to a single cell.. For example, a 1.5-volt AAA battery is a single 1.5-volt cell, and a 9-volt battery has six 1.5-volt cells in series. The first electrochemical cell was developed by the Italian physicist Alessandro Volta in 1792, and in 1800 he invented the first battery, a "pile" of many cells in series.
 # Research
 The vehicle monitoring system serves a lot of purposes based on the environment in which it is deployed in. It can be configured, modified or redesigned with ease to act accordingly, as and when needed, based on the requirements of the environment.Comfort Control Systems do more for us today than ever before. They are in charge of keeping your air clean, cooling your car down on a hot summers day, and Keeping your car going at a single speed using Cruise Control.This microcontroller is used in a large number of machines like automobiles as it can be easily integrated around a machine.
+# HIGH LEVEL REQUIREMENTS
+
+1) HLR 1---> Power supply unit
+
+2) HLR 2---> CO2 sensor
+
+3) HLR 3---> Voltage Sensor
+
+4) HLR 4---> LCD display - 16x2
+
+5) HLR 5---> Microcontroller
+
+LOW LEVEL REQUIREMENTS
+
+1) LLR 1---> ATmega328
+
+2) LLR 2---> AVR GCC compiler
+
+3) LLR 3---> Simulide
 
 # Swot Analysis
 # Strength
