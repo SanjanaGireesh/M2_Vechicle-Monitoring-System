@@ -23,7 +23,8 @@
 [![Valgrind](https://github.com/SanjanaGireesh/M2_Vechicle-Monitoring-System/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/SanjanaGireesh/M2_Vechicle-Monitoring-System/actions/workflows/Valgrind.yml)
 # CI Passing
 [![CI](https://github.com/SanjanaGireesh/M2_Vechicle-Monitoring-System/actions/workflows/CI.yml/badge.svg)](https://github.com/SanjanaGireesh/M2_Vechicle-Monitoring-System/actions/workflows/CI.yml)
-# FOLDER --->	DESCRIPTION
+# Folder Structure
+   FOLDER --->	DESCRIPTION
 1) 0_Abstract ---> Project Title and objectives of the Project
 2) 1_Requirements --->	Documents detailing high and low level requirements
 3) 2_Design --->	Block Diagram, Data Flow Diagram, Flow Chart, Schematic Diagram, Votlage Regulation
