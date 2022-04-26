@@ -40,3 +40,4 @@
 # Learning Resources
 1) https://futureskillsnasscom.edcast.com/journey/design-and-simulation-of-circuits-and-embedded-systems
 2) https://futureskillsnasscom.edcast.com/journey/c-programming-on-multiple-platforms-pbl-approach
+![Future Skill](https://user-images.githubusercontent.com/101441389/165309394-a965f376-03fa-43fb-bac7-c0c301a3b4f8.PNG)
